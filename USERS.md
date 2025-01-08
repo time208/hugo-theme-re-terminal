@@ -59,6 +59,7 @@
 - https://sir-photch.xyz **Sir-Photch** (ComSci-student. German Blog)
 - https://drewmorris.info **Drew Morris** (Mathematician && Computer Scientist)
 - https://blog.darkiiiiiice.com **MarioMang** (Software Developer)
+- https://timewaster43.github.io **Benjamin Li** (Student Developer)
 
 <!--
  TEMPLATE:
